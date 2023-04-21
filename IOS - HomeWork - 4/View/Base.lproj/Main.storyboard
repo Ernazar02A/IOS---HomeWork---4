@@ -380,7 +380,7 @@
     <resources>
         <image name="Star" width="18" height="18"/>
         <image name="Star_empty" width="18" height="18"/>
-        <image name="like" width="36" height="36"/>
+        <image name="like" width="128" height="128"/>
         <image name="minus" width="32" height="32"/>
         <image name="plus" width="32" height="32"/>
         <image name="x.circle.fill" catalog="system" width="128" height="123"/>
